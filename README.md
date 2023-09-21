@@ -1,4 +1,4 @@
-# Project Title: Aerial Maritime Object Detection with DETR-ResNet-50
+# Aerial Maritime Object Detection with DETR-ResNet-50
 
 
 
