@@ -44,3 +44,5 @@ pip install -r requirements.txt
 python app.py
 ```
 ![Screenshot at 2023-09-21 11-52-11](https://github.com/Kirouane-Ayoub/DETR-Aerial-Maritime-Object-Detection/assets/99510125/3957385d-2900-4b70-bb07-5bfd88170432)
+
+- **By Kirouane Ayoub**
